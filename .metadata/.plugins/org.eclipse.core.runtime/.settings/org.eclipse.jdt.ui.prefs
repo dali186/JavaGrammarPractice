@@ -1,0 +1,13 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="ch05.Student"><rhs name\="ch05.Student"/></lhs><lhs name\="ch11.Company"><rhs name\="ch11.Company"/></lhs><lhs name\="java.util.Enumeration"><rhs name\="java.util.StringTokenizer"/></lhs><lhs name\="java.util.StringTokenizer"><rhs name\="java.util.StringTokenizer"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="ch02.Customer"><rhs name\="ch02.VIPCustomer"/></lhs><lhs name\="java.io.InputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="java.io.FileInputStream"><rhs name\="java.io.FileInputStream"/></lhs><lhs name\="ch11.domain.userinfo.dao.UserInfoDao"><rhs name\="ch11.domain.userinfo.dao.mysql.UserInfoMySqlDao"/></lhs><lhs name\="corereview.soldier.Soldier"><rhs name\="corereview.soldier.PrivateSoldier"/></lhs><lhs name\="corereview.ServiceMan"><rhs name\="corereview.soldier.PrivateSoldier"/></lhs><lhs name\="corereview.soldier.PrivateSoldier"><rhs name\="corereview.soldier.PrivateSoldier"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

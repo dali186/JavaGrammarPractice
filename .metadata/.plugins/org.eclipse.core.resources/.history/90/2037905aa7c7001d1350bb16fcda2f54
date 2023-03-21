@@ -1,0 +1,19 @@
+package ch12;
+
+public class Factory {
+
+	private static Factory instance = new Factory();
+	
+	private static int carNum = 10000;
+	
+	private Factory() {
+		
+	}
+	
+	public void createCar(String carName) {
+		Car carName = new Car();
+	}
+
+		private static Company instance = new Company();
+	
+}

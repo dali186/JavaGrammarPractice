@@ -1,0 +1,6 @@
+package ch12;
+
+public class Factory {
+
+	private static Factory instance = new Factory();
+}

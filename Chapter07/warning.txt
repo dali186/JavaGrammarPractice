@@ -1,0 +1,12 @@
+3월 29, 2023 9:41:59 오후 Log.MyLogger log
+WARNING: log test
+3월 29, 2023 9:41:59 오후 Log.MyLogger log
+SEVERE: log test
+3월 29, 2023 9:42:44 오후 Log.MyLogger log
+WARNING: log test
+3월 29, 2023 9:42:44 오후 Log.MyLogger log
+SEVERE: log test
+3월 29, 2023 9:51:16 오후 Log.MyLogger warning
+WARNING: name must not be null
+3월 29, 2023 9:51:16 오후 Log.MyLogger warning
+WARNING: 이름이 너무 길어요

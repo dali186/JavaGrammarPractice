@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ch05.Student"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ch11.Company"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="ch13.Book"/>
+    <fullyQualifiedTypeName name="ch01.Customer"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="arrayListTest.Subjcet"/>
+    <fullyQualifiedTypeName name="ch02.VIPCustomer"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ArrayBlockingQueue"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ch06.VIPCustomer"/>
+    <fullyQualifiedTypeName name="ch10.Calc"/>
+    <fullyQualifiedTypeName name="ch11.domain.userinfo.dao.UserInfoDao"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.lang.StringIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="ch11.web.userinfo.UserInfoClient"/>
+    <fullyQualifiedTypeName name="ch11.domain.userinfo.UserInfo"/>
+    <fullyQualifiedTypeName name="ch11.domain.userinfo.dao.mysql.UserInfoMySqlDao"/>
+    <fullyQualifiedTypeName name="review01.Player"/>
+    <fullyQualifiedTypeName name="review01.PlayerLevel"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="review02.Scheduler"/>
+    <fullyQualifiedTypeName name="corereview.soldier.Soldier"/>
+    <fullyQualifiedTypeName name="corereview.ServiceMan"/>
+    <fullyQualifiedTypeName name="corereview.soldier.PrivateSoldier"/>
+    <fullyQualifiedTypeName name="ch01.OutClass.InClass"/>
+    <fullyQualifiedTypeName name="ch01.OutClass"/>
+    <fullyQualifiedTypeName name="ch01.OutClass.InStaticClass"/>
+    <fullyQualifiedTypeName name="ch01.Outer2"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="ch01.Insect"/>
+</qualifiedTypeNameHistroy>
