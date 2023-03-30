@@ -34,4 +34,12 @@
     <fullyQualifiedTypeName name="ch01.Outer2"/>
     <fullyQualifiedTypeName name="java.lang.Runnable"/>
     <fullyQualifiedTypeName name="ch01.Insect"/>
+    <fullyQualifiedTypeName name="innerclass.OutClass.InnerClass"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="ch03.StringConcatImpl"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.DOMStringList"/>
+    <fullyQualifiedTypeName name="ch03.StringConcat"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
+    <fullyQualifiedTypeName name="ch05.CompareString"/>
 </qualifiedTypeNameHistroy>
