@@ -1,1 +1,4 @@
-HI, 
+Master - 가장 완벽한 상태
+Develop - 개발 중인 상태
+
+JOOWON / MOOWON
