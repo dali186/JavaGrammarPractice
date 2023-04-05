@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd77fac-068a-4898-b40a-6157f4abf2a1" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoonReview/Boj1780R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Review/OneToOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringStudy/Practice04.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,9 @@
       <workItem from="1680510541377" duration="686000" />
       <workItem from="1680515671862" duration="22000" />
       <workItem from="1680520206477" duration="7727000" />
-      <workItem from="1680602198638" duration="351000" />
+      <workItem from="1680602198638" duration="4041000" />
+      <workItem from="1680664524009" duration="662000" />
+      <workItem from="1680666762542" duration="6594000" />
     </task>
     <servers />
   </component>
@@ -81,5 +84,16 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Review/OneToOne.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
