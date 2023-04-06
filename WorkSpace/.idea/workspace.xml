@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd77fac-068a-4898-b40a-6157f4abf2a1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1920.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoonReview/Boj1780R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Review/OneToOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj10816.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj12865.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,8 @@
       <workItem from="1680520206477" duration="7727000" />
       <workItem from="1680602198638" duration="4041000" />
       <workItem from="1680664524009" duration="662000" />
-      <workItem from="1680666762542" duration="6594000" />
+      <workItem from="1680666762542" duration="10394000" />
+      <workItem from="1680698934418" duration="4672000" />
     </task>
     <servers />
   </component>
