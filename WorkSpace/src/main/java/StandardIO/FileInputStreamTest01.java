@@ -12,9 +12,9 @@ public class FileInputStreamTest01 {
         FileInputStream fis = null;
         try {
             fis = new FileInputStream("src/input.txt");
-            System.out.println((char)fis.read());
-            System.out.println((char)fis.read());
-            System.out.println((char)fis.read());
+            System.out.println((char) fis.read());
+            System.out.println((char) fis.read());
+            System.out.println((char) fis.read());
         } catch (IOException e) {
             e.printStackTrace();
             try {

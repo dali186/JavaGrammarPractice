@@ -2,18 +2,17 @@ package BaekJoon;
 
 import java.util.Scanner;
 
-public class Boj12865 {
-    static int items[][];
+public class Boj4386 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
-        items = new int[N][2];
-        int K = sc.nextInt();
-
+        double[][] stars = new double[N][2];
         for(int i = 0; i < N; i++) {
-            items[i][0] = sc.nextInt();
-            items[i][1] = sc.nextInt();
+            stars[i][0] = sc.nextDouble();
+            stars[i][1] = sc.nextDouble();
         }
 
+
     }
+
 }
