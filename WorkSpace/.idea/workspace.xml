@@ -5,21 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd77fac-068a-4898-b40a-6157f4abf2a1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/Day03/Clazz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/Day03/Practice01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignments/Day03/Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1715.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1932.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj4386.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Review/ObjectReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Thread/JoinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Thread/PriorityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Thread/SyncMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Thread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/day03/practice/Practice05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice01/Clazz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice02/Clazz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice03/Clazz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice04/TeslaCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice06/Clazz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj12865.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj12865.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StandardIO/FileInputStreamTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StandardIO/FileInputStreamTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StandardIO/SystemInTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StandardIO/SystemInTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/Day03/Clazz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignments/Day03/Clazz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +72,7 @@
       <workItem from="1680698934418" duration="4672000" />
       <workItem from="1680764550008" duration="8112000" />
       <workItem from="1680840750809" duration="10140000" />
-      <workItem from="1680855826705" duration="5267000" />
+      <workItem from="1680855826705" duration="9180000" />
     </task>
     <servers />
   </component>
