@@ -13,7 +13,3 @@ _
 /src/main/java/me/day03/practice/Practice05.java,b\2\b25e0bab9777a93b66cd72e7b30527e2bcd42da1
 d
 4src/main/java/me/day03/practice/practice04/Main.java,c\e\ce749fb3882cb267d585efe4be9838c9508834c7
-S
-#src/main/java/BaekJoon/Boj1912.java,0\6\066251ca84c5e189b6a653376a1923b915ac36b7
-S
-#src/main/java/BaekJoon/Boj1149.java,7\b\7b6395d9ccf8610737ba0b8e947230bbeec084be

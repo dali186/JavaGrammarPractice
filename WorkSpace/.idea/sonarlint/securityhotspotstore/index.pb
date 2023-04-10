@@ -13,7 +13,3 @@ h
 8src/main/java/me/day03/practice/practice04/TeslaCar.java,c\c\ccdf0d17be528c867b532688b31ae65925f296e3
 d
 4src/main/java/me/day03/practice/practice04/Main.java,c\e\ce749fb3882cb267d585efe4be9838c9508834c7
-S
-#src/main/java/BaekJoon/Boj1912.java,0\6\066251ca84c5e189b6a653376a1923b915ac36b7
-S
-#src/main/java/BaekJoon/Boj1149.java,7\b\7b6395d9ccf8610737ba0b8e947230bbeec084be
