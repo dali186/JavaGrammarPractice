@@ -5,14 +5,112 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd77fac-068a-4898-b40a-6157f4abf2a1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Thread/LibraryMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/066251ca84c5e189b6a653376a1923b915ac36b7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b6395d9ccf8610737ba0b8e947230bbeec084be" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheEssenceOfJava/src/main/java/Lambda/FunctionalInterfacePT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj8958.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice01/AuthMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice01/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice01/Electronic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice01/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice02/AuthMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice02/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice02/Electronic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice02/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice02/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice03/AuthMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice03/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice03/Electronic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice03/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice03/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice03/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StudentManagement/BasicEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StudentManagement/DEFINE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StudentManagement/GradeEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StudentManagement/MajorEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StudentManagement/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StudentManagement/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StudentManagement/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Training/Enum/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Training/Enum/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Training/Enum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Training/Enum/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4ae14f890ac6995ef6e3fb13672d2240c9e9b9d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a5354b32e059d89cff08e9447733ddb092e89a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84249725a812f9668f07feab4b76c76ca7d0f650" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b25e0bab9777a93b66cd72e7b30527e2bcd42da1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/ccdf0d17be528c867b532688b31ae65925f296e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce749fb3882cb267d585efe4be9838c9508834c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef6cfdb81eaae4dd68aa6a88c0820f63a0a1d591" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/6/066251ca84c5e189b6a653376a1923b915ac36b7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/b/7b6395d9ccf8610737ba0b8e947230bbeec084be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/a/4ae14f890ac6995ef6e3fb13672d2240c9e9b9d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/a/7a5354b32e059d89cff08e9447733ddb092e89a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/4/84249725a812f9668f07feab4b76c76ca7d0f650" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/2/b25e0bab9777a93b66cd72e7b30527e2bcd42da1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/c/ccdf0d17be528c867b532688b31ae65925f296e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/e/ce749fb3882cb267d585efe4be9838c9508834c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/f/ef6cfdb81eaae4dd68aa6a88c0820f63a0a1d591" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/KNOU/BinarySearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/Day03/Clazz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/Day03/Practice01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignments/Day03/Practice02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AssitanceStream/FileCopyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/AssitanceStream/FileCopyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AssitanceStream/InputStreamReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/AssitanceStream/InputStreamReaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj10816.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10816.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1149.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1149.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj12865.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj12865.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1629.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1629.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1715.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1715.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1780.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1780.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1912.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1912.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1920.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1920.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1932.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1932.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj1992.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1992.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj24416.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj24416.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj2630.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj2630.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj2675.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj2675.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj2908.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj2908.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/Boj4386.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj4386.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoon/LeetCode125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/LeetCode125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BaekJoonReview/Boj1780R.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1780R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExceptionReview/ExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/ExceptionReview/ExceptionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExceptionReview/FileExceptionReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/ExceptionReview/FileExceptionReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExceptionReview/InstallExceptionReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/ExceptionReview/InstallExceptionReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExceptionReview/ThrowsReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/ExceptionReview/ThrowsReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Review/ObjectReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Review/OneToOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StandardIO/FileInputStreamTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StandardIO/FileInputStreamTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StandardIO/FileInputStreamTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StandardIO/FileInputStreamTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StandardIO/FileInputStreamTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StandardIO/FileInputStreamTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StandardIO/FileOutputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StandardIO/FileOutputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StandardIO/FileOutputStreamTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StandardIO/FileOutputStreamTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StandardIO/FileReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StandardIO/FileReaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StandardIO/FileReaderTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StandardIO/FileReaderTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StandardIO/SystemInTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/StandardIO/SystemInTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringStudy/Practice01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/Review/StringStudy/Practice01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringStudy/Practice02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/Review/StringStudy/Practice02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringStudy/Practice03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/Review/StringStudy/Practice03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Thread/JoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Thread/JoinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Thread/LibraryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Thread/LibraryMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Thread/PriorityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Thread/PriorityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Thread/SyncMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Thread/SyncMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Thread/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Thread/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/day03/practice/Practice05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/day03/Practice05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice01/Clazz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/day03/practice01/Clazz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice02/Clazz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/day03/practice02/Clazz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice03/Clazz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/day03/practice03/Clazz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/day03/practice03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/day03/practice04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice04/TeslaCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/day03/practice04/TeslaCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/day03/practice/practice06/Clazz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/day03/practice06/Clazz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +120,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -38,16 +138,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/FastCampus_BackEnd/JavaGrammarPractice/WorkSpace&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/Desktop/FastCampus_BackEnd/JavaGrammarPractice/WorkSpace/src/main/java/Assignment/day05/Practice03",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\Assignment\day05\Practice03" />
+      <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\Assignment\day05\Practice02" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -73,7 +179,12 @@
       <workItem from="1680855826705" duration="9357000" />
       <workItem from="1680870992539" duration="2447000" />
       <workItem from="1680874753825" duration="867000" />
-      <workItem from="1681122163772" duration="1582000" />
+      <workItem from="1681122163772" duration="2416000" />
+      <workItem from="1681126804412" duration="6787000" />
+      <workItem from="1681133738426" duration="1528000" />
+      <workItem from="1681207122822" duration="4206000" />
+      <workItem from="1681271987412" duration="2697000" />
+      <workItem from="1681274701771" duration="16035000" />
     </task>
     <servers />
   </component>
