@@ -1,0 +1,6 @@
+
+†
+java:S1319K"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(é°óÇ
+Œ
+java:S1319O"qThe type of "electronicDevices" should be an interface such as "List" rather than the implementation "ArrayList".(ÒšÛüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éùø—
