@@ -1,0 +1,32 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿşı«8ù‰Ëñ÷0
+U
+java:S1854"8Remove this useless assignment to local variable "arr6".(óã´Ä8Û××ñ÷0
+Z
+java:S1854	"8Remove this useless assignment to local variable "arr3".(ÚõÜ½ûÿÿÿÿ8¤‰Îñ÷0
+Z
+java:S1854"8Remove this useless assignment to local variable "arr2".(ÅÌ—ßøÿÿÿÿ8€ŠËñ÷0
+U
+java:S1854"8Remove this useless assignment to local variable "arr1".(ºƒ‹8âñÍñ÷0
+G
+java:S1197"*Move the array designators [] to the type.(ºƒ‹8ŠËñ÷0
+F
+java:S1481")Remove this unused "arr1" local variable.(ºƒ‹8âñÍñ÷0
+L
+java:S1197"*Move the array designators [] to the type.(ÅÌ—ßøÿÿÿÿ8ŠËñ÷0
+K
+java:S1481")Remove this unused "arr2" local variable.(ÅÌ—ßøÿÿÿÿ8ŠËñ÷0
+L
+java:S1197	"*Move the array designators [] to the type.(ÚõÜ½ûÿÿÿÿ8ŠËñ÷0
+K
+java:S1481	")Remove this unused "arr3" local variable.(ÚõÜ½ûÿÿÿÿ8¥‰Îñ÷0
+I
+java:S1197
+",Move the array designators [][] to the type.(Å×Çç8‘‘Ìñ÷0
+N
+java:S1197",Move the array designators [][] to the type.(»ù³ÿÿÿÿÿ8‘‘Ìñ÷0
+I
+java:S1197",Move the array designators [][] to the type.(óã´Ä8Ë‹Íñ÷0
+F
+java:S1481")Remove this unused "arr6" local variable.(óã´Ä8İ××ñ÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¥Éá8‘»Óñ÷0

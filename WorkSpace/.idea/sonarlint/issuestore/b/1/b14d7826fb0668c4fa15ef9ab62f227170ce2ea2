@@ -1,0 +1,12 @@
+
+†
+java:S1319U"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÍŒÒ
+v
+java:S1488-"[Immediately return this expression instead of assigning it to the temporary variable "now".(ı¥ä¦ùÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–êÉ}
+Q
+java:S2696$"6Make the enclosing method "static" or remove this set.(º˜•·ıÿÿÿÿ
+S
+java:S1117&"=Rename "productNo" which hides the field declared at line 11.(ÛĞ±Ï
+Z
+java:S3986&"DMake sure that week Year "YY" is expected here instead of Year "yy".(ÛĞ±Ï

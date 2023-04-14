@@ -1,0 +1,26 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ¦çöùÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(—ŸÈşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ïÀöúÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "i" parameter(úÊ‰
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úÊ‰
+E
+java:S1611"/Remove the parentheses around the "i" parameter(‘‡è
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘‡è
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®ùØĞ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÅËÍ
+J
+java:S1611"/Remove the parentheses around the "i" parameter(Œøõíûÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "j" parameter(¨­Æ¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨­Æ¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "i" parameter(¤¿¸úÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "j" parameter(¨­Æ¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨­Æ¶
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

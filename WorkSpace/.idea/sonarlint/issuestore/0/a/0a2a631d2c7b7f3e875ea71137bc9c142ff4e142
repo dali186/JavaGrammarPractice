@@ -1,0 +1,26 @@
+
+¯
+java:S11929"ŒDefine a constant instead of duplicating this literal "
+--------------------------------------------------------------------------" 3 times.(ı¶¥àûÿÿÿÿ8âã—ó÷0
+
+java:S1192*"qDefine a constant instead of duplicating this literal "
+-----------------------------------------------" 3 times.( Õá^8âã—ó÷0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿşı«8ã¼šó÷0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ú¼Ôüÿÿÿÿ8Øä—ó÷0
+T	java:S106""9Replace this use of System.out or System.err by a logger.(çå;8Øä—ó÷0
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Øä—ó÷0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(âÖ¼«üÿÿÿÿ8Øä—ó÷0
+T	java:S106*"9Replace this use of System.out or System.err by a logger.( Õá^8Øä—ó÷0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(Ÿ–Êâùÿÿÿÿ8Øä—ó÷0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(¦Õ™üÿÿÿÿ8Ùä—ó÷0
+T	java:S106/"9Replace this use of System.out or System.err by a logger.( Õá^8Ùä—ó÷0
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ÄÎÂ¹8Ùä—ó÷0
+T	java:S1063"9Replace this use of System.out or System.err by a logger.( Õá^8Ùä—ó÷0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Úä—ó÷0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ûŞıÿÿÿÿ8Úä—ó÷0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ïÖÇÏúÿÿÿÿ8Úä—ó÷0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ı¶¥àûÿÿÿÿ8Úä—ó÷0
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ÿ—Ì8Úä—ó÷0
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ı¶¥àûÿÿÿÿ8Úä—ó÷0
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(óáÃ¥øÿÿÿÿ8Úä—ó÷0
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ı¶¥àûÿÿÿÿ8Ûä—ó÷0

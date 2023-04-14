@@ -1,0 +1,34 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ¦çöùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öá¶í
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÚ»é
+‡
+java:S2159"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ÒÚ»é
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÛÜ¤ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô‚ğÛÿÿÿÿÿ
+Œ
+java:S2159"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(ô‚ğÛÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(î¼â÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çøóïùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œ›üøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µ‚Ô™ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÊ‚ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã×ºÑ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(£úÅ„
+‡
+java:S2159 "qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(£úÅ„
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Ã×ºÑ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(®éğ§
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ıÄÀ¡şÿÿÿÿ
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(É…Î
+†
+java:S2159&"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(É…Î
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(¨¿‚l
+†
+java:S2159'"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(¨¿‚l
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Àïø»şÿÿÿÿ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(Üé]
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(—¥Úèûÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Áèê•
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

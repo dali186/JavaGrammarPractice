@@ -1,0 +1,21 @@
+
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "value".(£şƒşÿÿÿÿ8Àš„ò÷0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿşı«8Àš„ò÷0
+G
+java:S1197"*Move the array designators [] to the type.(Ëùñã8­²¤ò÷0
+F
+java:S1197"*Move the array designators [] to the type.(‘˜—S8­²¤ò÷0
+L
+java:S1197"*Move the array designators [] to the type.(ÓàŞ„ûÿÿÿÿ8ªó…ò÷0
+G
+java:S1197"*Move the array designators [] to the type.(ËÔÂ”8ªó…ò÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô´ˆÇ8¼Ù†ò÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¶æÚıÿÿÿÿ8½Ù†ò÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÎëÄ¸8Ñ‡ò÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(üøéøÿÿÿÿ8ŒÍˆò÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©û—ò÷0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(˜÷‚Îúÿÿÿÿ8¼ÂŸò÷0
+“
+java:S2159!"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(˜÷‚Îúÿÿÿÿ8¼ÂŸò÷0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¬¶‘ûøÿÿÿÿ8º²¨ò÷0

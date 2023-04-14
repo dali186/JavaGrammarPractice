@@ -3,7 +3,7 @@
 java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Û¾Ïüÿÿÿÿ
 ~
 java:S1319"hThe type of "userList" should be an interface such as "List" rather than the implementation "ArrayList".(î…ğ´
-X
-java:S49736"<Strings and Boxed types should be compared using "equals()".(ë˜‹88ËŠ†õ÷0
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÖâøÿÿÿÿ
+Q
+java:S49736"<Strings and Boxed types should be compared using "equals()".(ë˜‹8
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–êÉ}
 S	java:S106:"9Replace this use of System.out or System.err by a logger.(ïˆÅ÷şÿÿÿÿ
