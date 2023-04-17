@@ -1,6 +1,7 @@
 package Algorithm.BaekJoon;
 
 
+import java.io.OutputStream;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
@@ -28,9 +29,11 @@ public class Boj18870 {
             }
         }
 
+        StringBuilder sb = new StringBuilder();
         for(int i = 0; i < N; i++) {
-            System.out.print(map.get(ary[i]) + " ");
+            sb.append(map.get(ary[i]) + " ");
         }
+        System.out.println(sb);
 
     }
 

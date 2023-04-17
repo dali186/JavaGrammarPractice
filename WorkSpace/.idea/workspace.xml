@@ -5,25 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd77fac-068a-4898-b40a-6157f4abf2a1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj18870.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ArrayPractice/ArrayPractice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ArrayPractice/Practice01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ArrayPractice/Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ArrayPractice/Practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ArrayPractice/Practice05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Arrays/Members.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Entity/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Entity/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Entity/ShoppingItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Enum/Auth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Enum/Categories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Enum/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e6d139e032bf06c925b36a15e01cd6a51987e8a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e6d139e032bf06c925b36a15e01cd6a51987e8a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj2805.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyArrayStackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51f76444b2f129a2eb2a371c75aa29d96f6943dc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51f76444b2f129a2eb2a371c75aa29d96f6943dc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj18870.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj18870.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +97,9 @@
       <workItem from="1681379997085" duration="2365000" />
       <workItem from="1681449003558" duration="10424000" />
       <workItem from="1681460251918" duration="2876000" />
-      <workItem from="1681466340272" duration="788000" />
+      <workItem from="1681466340272" duration="9209000" />
+      <workItem from="1681539477308" duration="600000" />
+      <workItem from="1681707206761" duration="714000" />
     </task>
     <servers />
   </component>

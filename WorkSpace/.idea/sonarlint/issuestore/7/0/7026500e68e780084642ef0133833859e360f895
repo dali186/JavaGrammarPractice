@@ -1,0 +1,21 @@
+
+l
+java:S1192("ODefine a constant instead of duplicating this literal "ê°œ ì…ë‹ˆë‹¤." 4 times.(ûõ™È8ÃÂ•û÷0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú¾ÿºÿÿÿÿÿ
+g
+java:S22597"EA "NullPointerException" could be thrown; "preNode" is nullable here.(­°È·úÿÿÿÿ8áÂ•û÷0
+b
+java:S2259Q"EA "NullPointerException" could be thrown; "preNode" is nullable here.(ıºÂæ8áÂ•û÷0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ûõ™È8çÂ•û÷0
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(¢ş©ë8éÂ•û÷0
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(Íºš8éÂ•û÷0
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(â­¯8êÂ•û÷0
+<
+java:S2129`" Remove this "String" constructor(‚º¬&8ğÂ•û÷0
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(â­¯8óÂ•û÷0
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(ÚÉÆ´şÿÿÿÿ8ôÂ•û÷0
+V	java:S106š"9Replace this use of System.out or System.err by a logger.(«’Á8õÂ•û÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜¯‹h8õÂ•û÷0
+[	java:S106 "9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8öÂ•û÷0
+_
+java:S1126¥"AReplace this if-then-else statement by a single return statement.(ÔÄÍø8öÂ•û÷0

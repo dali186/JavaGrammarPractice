@@ -1,0 +1,15 @@
+
+x
+java:S1104"VMake ARRAY_SIZE a static final constant or non-public and provide accessors if needed.(ö©—•şÿÿÿÿ8”‘òú÷0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú¾ÿºÿÿÿÿÿ
+v	java:S116"URename this field "ARRAY_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö©—•şÿÿÿÿ8©‘òú÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­†¤Àøÿÿÿÿ8·‘òú÷0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(­†¤Àøÿÿÿÿ8¹‘òú÷0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(Úğ›å8º‘òú÷0
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÀÁÖŠÿÿÿÿÿ8½‘òú÷0
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(Ğ£Şµşÿÿÿÿ8¾‘òú÷0
+]
+java:S1126X"AReplace this if-then-else statement by a single return statement.(—êŸ8À‘òú÷0
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(½•Ï 8À‘òú÷0
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(ÚÉÆ´şÿÿÿÿ8Á‘òú÷0
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ë©ºƒÿÿÿÿÿ8Â‘òú÷0
