@@ -11,6 +11,8 @@ public class Member {
     private String userPwd;
     private String userEmail;
     private String userAddress;
+    private ShoppingCart shoppingCart;
+    private Order order;
     private LocalDateTime registerTime;
     private Auth userAuth;
 
@@ -61,6 +63,22 @@ public class Member {
 
     public void setUserAuth(Auth userAuth) {
         this.userAuth = userAuth;
+    }
+
+    public ShoppingCart getShoppingCart() {
+        return shoppingCart;
+    }
+
+    public void setShoppingCart(ShoppingCart shoppingCart) {
+        this.shoppingCart = shoppingCart;
+    }
+
+    public Order getOrder() {
+        return order;
+    }
+
+    public void setOrder(Order order) {
+        this.order = order;
     }
 
     @Override
