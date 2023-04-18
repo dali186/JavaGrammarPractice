@@ -48,7 +48,7 @@ public class Users {
         userList.add(user);
     }
 
-    public User findByUserId(String userId) {
+    public User findByUserId(String userId) throws NullPointerException{
 
         for(int i = 0; i < userList.size(); i++) {
             if(userList.get(i).getUserId() == userId) {

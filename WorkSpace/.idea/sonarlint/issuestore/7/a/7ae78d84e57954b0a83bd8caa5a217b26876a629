@@ -1,10 +1,8 @@
 
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁü
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­öˆÖüÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ö´
-@
-java:S1197"*Move the array designators [] to the type.(êÿ³Ö
-B
-java:S1197",Move the array designators [][] to the type.(–¶Ÿî
-N	java:S106"9Replace this use of System.out or System.err by a logger.(”üÔÚ
-h	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ş”Áüÿÿÿÿ
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁü8ÇÉÅ÷ø0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­öˆÖüÿÿÿÿ8ÇÉÅ÷ø0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ö´8ÈÉÅ÷ø0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8éÅÆ÷ø0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÒÉÅ÷ø0

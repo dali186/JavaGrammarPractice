@@ -5,18 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd77fac-068a-4898-b40a-6157f4abf2a1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj2805.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyArrayStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51f76444b2f129a2eb2a371c75aa29d96f6943dc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51f76444b2f129a2eb2a371c75aa29d96f6943dc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1300.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj2447.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Compare/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Compare/MemberTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Compare/MemberTreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Generic/GenericPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Generic/GenericPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Generic/Plastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Generic/Powder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/Structure/MyLinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/TExtends/GenericPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/TExtends/GenericPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/TExtends/Material.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/TExtends/Plastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaGrammar/TExtends/Powder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Training/Algorithm/MinNMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Training/Algorithm/SortedNFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7ae78d84e57954b0a83bd8caa5a217b26876a629" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7ae78d84e57954b0a83bd8caa5a217b26876a629" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dae4da215f88869885759a751f983911ced72ab5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dae4da215f88869885759a751f983911ced72ab5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj18870.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj18870.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10816.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10816.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1654.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice03/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assignment/day05/Practice03/Users.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +64,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/FastCampus_BackEnd/JavaGrammarPractice/WorkSpace/src/main/java/ForSubmission/me/day05/practice&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/FastCampus_BackEnd/JavaGrammarPractice/WorkSpace/src/main/java/JavaGrammar/TExtends&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Algorithm.BaekJoon" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\JavaGrammar\TExtends" />
       <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\ForSubmission\me\day05\practice" />
       <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\Assignment\day05\Practice03" />
       <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\Assignment\day05\Practice02" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JavaGrammar.TExtends" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -99,7 +120,9 @@
       <workItem from="1681460251918" duration="2876000" />
       <workItem from="1681466340272" duration="9209000" />
       <workItem from="1681539477308" duration="600000" />
-      <workItem from="1681707206761" duration="714000" />
+      <workItem from="1681707206761" duration="9875000" />
+      <workItem from="1681726101570" duration="11130000" />
+      <workItem from="1681792957771" duration="879000" />
     </task>
     <servers />
   </component>
