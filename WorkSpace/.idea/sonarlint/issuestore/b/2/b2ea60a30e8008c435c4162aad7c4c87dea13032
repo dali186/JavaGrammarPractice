@@ -1,0 +1,15 @@
+
+F
+java:S1604ª"(Make this anonymous inner class a lambda(³ü‹œ8ËÄ¡¡ù0
+9
+java:S1643·"Use a StringBuilder instead.(Úù’8‹±±¡ù0
+F
+java:S5411"(Use a primitive boolean expression here.(ýƒ8Œ±±¡ù0
+F
+java:S5411¢"(Use a primitive boolean expression here.(Õ™áð8Œ±±¡ù0
+>
+java:S1700
+"Rename field "shoppingCarts"(ðàºàÿÿÿÿÿ8ÌÄ¡¡ù0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôÞü úÿÿÿÿ8ÍÄ¡¡ù0
+O
+java:S1144)"-Remove this unused private "capacity" method.(§×Ì©øÿÿÿÿ8åÄ¡¡ù0

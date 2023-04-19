@@ -5,31 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd77fac-068a-4898-b40a-6157f4abf2a1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10773.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10828.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1874.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj2580.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj4949.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj9012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ObjectArray/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ObjectArray/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ObjectArray/Members.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ObjectArray/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ObjectArray/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ObjectArray/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ObjectArray/ShoppingCarts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ObjectArray/ShoppingItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Training/ObjectArray/ShoppingItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0fe67739b33a43db22b540cee8e732550eb9f2cf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94f0ae342c45d064ce3aae2028b168820bb21a46" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fac7c639643c5ee07791a601cbdf40e0880028f3" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/reDay03/Electronic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/reDay03/Electronics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/reDay03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/reDay03/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/reDay03/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11b206840402bd26a651e2e478a88f82712c3fbc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c7b3abf2688c3a274a90b47c57c16e13a54e3aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf5e5f6edf08c98e1f0d43df1e5ed8cfdfb8ff58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dae4da215f88869885759a751f983911ced72ab5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/f/0fe67739b33a43db22b540cee8e732550eb9f2cf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/4/94f0ae342c45d064ce3aae2028b168820bb21a46" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/a/fac7c639643c5ee07791a601cbdf40e0880028f3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/1/11b206840402bd26a651e2e478a88f82712c3fbc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c7b3abf2688c3a274a90b47c57c16e13a54e3aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/f/bf5e5f6edf08c98e1f0d43df1e5ed8cfdfb8ff58" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/dae4da215f88869885759a751f983911ced72ab5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Entity/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Training/ShoppingMall/Entity/Member.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +112,8 @@
       <workItem from="1681539477308" duration="600000" />
       <workItem from="1681707206761" duration="9875000" />
       <workItem from="1681726101570" duration="11130000" />
-      <workItem from="1681792957771" duration="13713000" />
+      <workItem from="1681792957771" duration="14444000" />
+      <workItem from="1681878383150" duration="7775000" />
     </task>
     <servers />
   </component>

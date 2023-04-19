@@ -1,0 +1,8 @@
+
+v	java:S135Ô"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸8²¦Ÿ¡ù0
+v	java:S135à"YReduce the total number of break and continue statements in this loop to use at most one.(ÎÂ²¸8²¦Ÿ¡ù0
+>
+java:S1700"Rename field "shoppingItems"(ÁÔèôþÿÿÿÿ8³¦Ÿ¡ù0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôÞü úÿÿÿÿ8šñŸ¡ù0
+O
+java:S1144l"-Remove this unused private "capacity" method.(§×Ì©øÿÿÿÿ8é¦Ÿ¡ù0

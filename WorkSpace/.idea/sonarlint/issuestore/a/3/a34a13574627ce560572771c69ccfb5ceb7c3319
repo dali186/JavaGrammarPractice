@@ -1,0 +1,12 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì£‹8¦ÿ¯˜ù0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ö´8§ÿ¯˜ù0
+G
+java:S1197	"*Move the array designators [] to the type.(¨šÓ8Èÿ¯˜ù0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(¡ò†şÿÿÿÿ8Ìÿ¯˜ù0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(×Ãİ´ÿÿÿÿÿ8Ìÿ¯˜ù0
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ8Ìÿ¯˜ù0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8Íÿ¯˜ù0
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ8Íÿ¯˜ù0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(¡ò†şÿÿÿÿ8Íÿ¯˜ù0
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(×Ãİ´ÿÿÿÿÿ8Íÿ¯˜ù0
