@@ -1,0 +1,15 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÍ½Íûÿÿÿÿ8Û…èÁù0
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(ÌÆ8Ì†èÁù0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ÒñÀ»ûÿÿÿÿ8Ì†èÁù0
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ïˆÅ÷şÿÿÿÿ8Ì†èÁù0
+V
+java:S1117N"9Rename "index" which hides the field declared at line 18.(ìüà·8Í†èÁù0
+t
+java:S3776_"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÿÁ•­üÿÿÿÿ8Í†èÁù0
+V
+java:S1117a"9Rename "index" which hides the field declared at line 18.(ìüà·8Î†èÁù0
+>
+java:S1116q"Remove this empty statement.(ôŸìúÿÿÿÿ8Ï†èÁù0
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8€öèÁù0

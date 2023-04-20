@@ -5,22 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cd77fac-068a-4898-b40a-6157f4abf2a1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/reDay03/Electronic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/reDay03/Electronics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/reDay03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/reDay03/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Assignment/reDay03/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/11b206840402bd26a651e2e478a88f82712c3fbc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c7b3abf2688c3a274a90b47c57c16e13a54e3aa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf5e5f6edf08c98e1f0d43df1e5ed8cfdfb8ff58" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dae4da215f88869885759a751f983911ced72ab5" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/List/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/List/MyDoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/List/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/List/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Object/Chapter01/Audience.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Object/Chapter01/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Object/Chapter01/Invitation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Object/Chapter01/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Object/Chapter01/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Object/Chapter01/TicketOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Object/Chapter01/TicketSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/list/MyArrayListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/1/11b206840402bd26a651e2e478a88f82712c3fbc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c7b3abf2688c3a274a90b47c57c16e13a54e3aa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/f/bf5e5f6edf08c98e1f0d43df1e5ed8cfdfb8ff58" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/dae4da215f88869885759a751f983911ced72ab5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/input2.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -67,6 +69,9 @@
       <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\ForSubmission\me\day05\practice" />
       <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\Assignment\day05\Practice03" />
       <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\Assignment\day05\Practice02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\test\java\list" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JavaGrammar.TExtends" />
@@ -113,7 +118,9 @@
       <workItem from="1681707206761" duration="9875000" />
       <workItem from="1681726101570" duration="11130000" />
       <workItem from="1681792957771" duration="14444000" />
-      <workItem from="1681878383150" duration="7775000" />
+      <workItem from="1681878383150" duration="8530000" />
+      <workItem from="1681887883957" duration="3112000" />
+      <workItem from="1681967415096" duration="10026000" />
     </task>
     <servers />
   </component>
