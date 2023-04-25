@@ -62,15 +62,10 @@ public class Main {
 //            System.out.println(test1);
 //        }
 
-        ArrayList<Electronic> authTest = new ArrayList<>();
-        authTest = deviceList.groupByAuthMethod(AuthMethod.FINGERPRINT);
-        for(Electronic test2 : authTest) {
-            System.out.println(test2);
-        }
+        deviceList.groupByAuthMethod(AuthMethod.FINGERPRINT).stream().forEach(System.out::println);
 
-        System.out.println(deviceList.getElectronicList().get(0).getAuthMethod().get(0));
-        System.out.println(AuthMethod.PIN);
-        System.out.println(deviceList.getElectronicList().get(0).getCompanyName());
-        System.out.println(Company.SAMSUNG);
+
+
+        deviceList.groupByCompanyName(Company.APPLE).stream().forEach(System.out::println);
     }
 }

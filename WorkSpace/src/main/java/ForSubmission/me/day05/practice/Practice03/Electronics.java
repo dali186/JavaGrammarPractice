@@ -1,11 +1,13 @@
 package ForSubmission.me.day05.practice.Practice03;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
+import java.util.stream.Collectors;
 
 public class Electronics {
     private static Electronics electronicsInstance;
-    private ArrayList<Electronic> electronicList = new ArrayList<>();
+    private List<Electronic> electronicList = new ArrayList<>();
 
     private Electronics(){}
 
@@ -16,11 +18,11 @@ public class Electronics {
         return electronicsInstance;
     }
 
-    public ArrayList<Electronic> getElectronicList() {
+    public List<Electronic> getElectronicList() {
         return electronicList;
     }
 
-    public void setElectronicList(ArrayList<Electronic> electronicList) {
+    public void setElectronicList(List<Electronic> electronicList) {
         this.electronicList = electronicList;
     }
 
@@ -54,27 +56,16 @@ public class Electronics {
         return null;
     }
 
-    public ArrayList<Electronic> groupByCompanyName (Company company) {
-        ArrayList<Electronic> companyGroupList = new ArrayList<>();
-
-        for(int i = 0; i < electronicList.size(); i++) {
-            if(electronicList.get(i).getCompanyName().equals(company)) {
-                companyGroupList.add(electronicList.get(i));
-            }
-        }
-        return companyGroupList;
+    public List<Electronic> groupByCompanyName (Company company) {
+        return (List<Electronic>) electronicList.stream()
+                .filter(electronic -> electronic.getCompanyName().equals(company))
+                .toList();
     }
 
-    public ArrayList<Electronic> groupByAuthMethod(AuthMethod authMethod) {
-        ArrayList<Electronic> authMethodGroupList = new ArrayList<>();
-
-        for(int i = 0; i < electronicList.size(); i++) {
-            if(electronicList.get(i).getAuthMethod().contains(authMethod)) {
-                authMethodGroupList.add(electronicList.get(i));
-            }
-        }
-
-        return authMethodGroupList;
+    public List<Electronic> groupByAuthMethod(AuthMethod authMethod) {
+        return electronicList.stream()
+                .filter(electronic -> electronic.getAuthMethod().contains(authMethod))
+                .toList();
     }
 
     public void addDevice(Electronic electronic) {
