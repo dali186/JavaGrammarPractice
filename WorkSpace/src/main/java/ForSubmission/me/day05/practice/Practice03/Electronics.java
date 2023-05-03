@@ -9,10 +9,11 @@ public class Electronics {
     private static Electronics electronicsInstance;
     private List<Electronic> electronicList = new ArrayList<>();
 
-    private Electronics(){}
+    private Electronics() {
+    }
 
     public static Electronics getElectronicsInstance() {
-        if(electronicsInstance == null) {
+        if (electronicsInstance == null) {
             electronicsInstance = new Electronics();
         }
         return electronicsInstance;
@@ -46,17 +47,18 @@ public class Electronics {
                 '}';
     }
 
-    public Electronic findByProductNo(String productNo) throws NullPointerException{
-        for (int i = 0; i < electronicList.size(); i++) {
-            if(electronicList.get(i).getProductNo().equals(productNo)) {
-                return electronicList.get(i);
-            }
+    public Electronic findByProductNo(String productNo) throws NullPointerException {
+        Electronic target = electronicList.stream().filter(electronic -> electronic.getProductNo().equals(productNo))
+                .findFirst()
+                .orElse(null);
+        if (target == null) {
+            System.out.println("Found Nothing");
+            throw new NullPointerException();
         }
-        System.out.println("Found Nothing");
-        return null;
+        return target;
     }
 
-    public List<Electronic> groupByCompanyName (Company company) {
+    public List<Electronic> groupByCompanyName(Company company) {
         return (List<Electronic>) electronicList.stream()
                 .filter(electronic -> electronic.getCompanyName().equals(company))
                 .toList();

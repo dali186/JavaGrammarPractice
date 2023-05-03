@@ -62,10 +62,6 @@ public class Main {
 //            System.out.println(test1);
 //        }
 
-        deviceList.groupByAuthMethod(AuthMethod.FINGERPRINT).stream().forEach(System.out::println);
-
-
-
-        deviceList.groupByCompanyName(Company.APPLE).stream().forEach(System.out::println);
+        System.out.println(deviceList.findByProductNo("2304250001"));
     }
 }

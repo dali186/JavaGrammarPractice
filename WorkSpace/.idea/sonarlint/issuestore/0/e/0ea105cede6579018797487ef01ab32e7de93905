@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÖâøÿÿÿÿ
+F
+java:S1172"+Remove this unused method parameter "auth".(ä–Óøÿÿÿÿ
+Q
+java:S2696'"6Make the enclosing method "static" or remove this set.(º˜•·ıÿÿÿÿ
+Z
+java:S3986*"DMake sure that week Year "YY" is expected here instead of Year "yy".(¼öÓ¯
+O
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
