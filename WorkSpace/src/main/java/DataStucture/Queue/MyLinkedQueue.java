@@ -39,7 +39,7 @@ public class MyLinkedQueue<T> implements  MyQueue<T>{
     }
 
     @Override
-    public T peak() {
+    public T peek() {
         if (this.isEmpty()) {
             throw new IllegalStateException();
         }

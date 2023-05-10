@@ -139,7 +139,7 @@ class MyDoubleLinkedListTest {
         assertEquals(100, given.size());
         assertTrue(given.contains(target));
         assertEquals(target, given.indexOf(target));
-        given.delete(target);
+        //given.delete(target);
         assertEquals(99, given.size());
         assertFalse(given.contains(target));
         assertEquals(-1, given.indexOf(target));

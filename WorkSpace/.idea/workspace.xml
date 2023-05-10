@@ -4,33 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd77fac-068a-4898-b40a-6157f4abf2a1" name="변경" comment="">
-
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/DiscountRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/DriveLicenseAble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/HighStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/Kid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/Park.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/SaleAble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/UnivStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day07/practice/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04983ea3281c9c856e94edf5d2cfc3d301c5ba3b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0ea105cede6579018797487ef01ab32e7de93905" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10a7ff28ccb111e086f0794744dc559ff97df233" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/335e4f7d2200011aff5b04e86df3c0d28a16ff90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d4d98a1e13a677eac11a062490579e36c1b0ce1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/9978bd3b97ee66d7d17cf476c10fa826870c41e1" beforeDir="false" />
+    <list default="true" id="b2ea11ac-1153-4c0d-a988-bd6d63acf19c" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj2164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/Km/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Hash/MyHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Hash/MyLinkedHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyCircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2d451100b1a2983d9b62bf0284eaa3dffc5e27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/506488734ce333740390931605368c81469ffa48" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/1/51f76444b2f129a2eb2a371c75aa29d96f6943dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/d/0d2d451100b1a2983d9b62bf0284eaa3dffc5e27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/0/506488734ce333740390931605368c81469ffa48" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day05/practice/Practice03/Electronic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day05/practice/Practice03/Electronic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day05/practice/Practice03/Electronics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day05/practice/Practice03/Electronics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day05/practice/Practice03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForSubmission/me/day05/practice/Practice03/Main.java" afterDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10773.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10773.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj9012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj9012.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyLinkedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyLinkedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/list/MyDoubleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/list/MyDoubleLinkedListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,17 +49,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/Desktop/FastCampus_BackEnd/JavaGrammarPractice/WorkSpace",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
->>>>>>> 12d7d33c9eec3c307e2b09face41b7dff1625eca
->>>>>>> d18caf571a68e32eabd35ca773a0fc3c134dfe38
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/FastCampus_BackEnd/JavaGrammarPractice/WorkSpace&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 12d7d33c9eec3c307e2b09face41b7dff1625eca
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; d18caf571a68e32eabd35ca773a0fc3c134dfe38
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Assignment.day11.practice01" />
@@ -192,6 +185,8 @@
       <workItem from="1682318455883" duration="5035000" />
       <workItem from="1682331494155" duration="926000" />
       <workItem from="1682334190616" duration="2619000" />
+      <workItem from="1683605367024" duration="9870000" />
+      <workItem from="1683692355079" duration="7927000" />
     </task>
     <servers />
   </component>

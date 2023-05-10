@@ -1,0 +1,55 @@
+
+L
+java:S3740&"/Provide the parametrized type for this generic.(ññéñ8ÌŸÍõÿ0
+L
+java:S3740&"/Provide the parametrized type for this generic.(ññéñ8ÌŸÍõÿ0
+j
+java:S1192X"NDefine a constant instead of duplicating this literal "studentDao = " 5 times.(¶Çş(8ÍŸÍõÿ0
+b
+java:S1192S"FDefine a constant instead of duplicating this literal "sally" 4 times.(¯§t8ÍŸÍõÿ0
+b
+java:S1192S"FDefine a constant instead of duplicating this literal "29899" 4 times.(¯§t8ÍŸÍõÿ0
+m
+java:S1192"QDefine a constant instead of duplicating this literal "H39r8djakndfae32" 3 times.(»›ÚV8ÍŸÍõÿ0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úŸÍ§ûÿÿÿÿ8ÏŸÍõÿ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬¤æ˜8åŸÍõÿ0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(’İ‚„øÿÿÿÿ8æŸÍõÿ0
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(´Ñéùÿÿÿÿ8éŸÍõÿ0
+U
+java:S1854U"8Remove this useless assignment to local variable "test".(®äÈª8éŸÍõÿ0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ˆšÑÖüÿÿÿÿ8êŸÍõÿ0
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(Éæé8êŸÍõÿ0
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(¤ú–¯8ëŸÍõÿ0
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(¦şÁúÿÿÿÿ8ëŸÍõÿ0
+Q
+java:S1611J"/Remove the parentheses around the "s" parameter(«©œ…üÿÿÿÿ8ìŸÍõÿ0
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(½šâ¦øÿÿÿÿ8ìŸÍõÿ0
+T	java:S106N"9Replace this use of System.out or System.err by a logger.(¦¼å&8íŸÍõÿ0
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(÷›•Œùÿÿÿÿ8íŸÍõÿ0
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(şÂç¼üÿÿÿÿ8îŸÍõÿ0
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ØÜ£š8îŸÍõÿ0
+F
+java:S1481U")Remove this unused "test" local variable.(®äÈª8ïŸÍõÿ0
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(ØÜ£š8ïŸÍõÿ0
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(¸ÂÔ¢ûÿÿÿÿ8ïŸÍõÿ0
+T	java:S106X"9Replace this use of System.out or System.err by a logger.(¶Çş(8ğŸÍõÿ0
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ğŸÍõÿ0
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(şÂç¼üÿÿÿÿ8ñŸÍõÿ0
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(Ëù”Éùÿÿÿÿ8òŸÍõÿ0
+T	java:S106e"9Replace this use of System.out or System.err by a logger.(¶Çş(8óŸÍõÿ0
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8óŸÍõÿ0
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(›Øõ8ôŸÍõÿ0
+L
+java:S1611i"/Remove the parentheses around the "s" parameter(“ç¨8ôŸÍõÿ0
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(ù±Ôºÿÿÿÿÿ8ôŸÍõÿ0
+T	java:S106l"9Replace this use of System.out or System.err by a logger.(¶Çş(8õŸÍõÿ0
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8öŸÍõÿ0
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(¢Ø›¬ûÿÿÿÿ8öŸÍõÿ0
+Z	java:S106q"9Replace this use of System.out or System.err by a logger.(À²â§üÿÿÿÿ8öŸÍõÿ0
+T	java:S106r"9Replace this use of System.out or System.err by a logger.(¶Çş(8÷ŸÍõÿ0
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8÷ŸÍõÿ0
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(¶¬ˆªıÿÿÿÿ8øŸÍõÿ0
+K
+java:S1611v"/Remove the parentheses around the "s" parameter(¶àç8øŸÍõÿ0
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(ùäşà8ùŸÍõÿ0
+T	java:S106y"9Replace this use of System.out or System.err by a logger.(¶Çş(8ùŸÍõÿ0
