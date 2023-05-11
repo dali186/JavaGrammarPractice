@@ -8,6 +8,7 @@ public class Boj9012 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
+        int M = 0;
         int N = Integer.parseInt(br.readLine());
         for (int i = 0; i < N; i++) {
             String brackets = br.readLine();

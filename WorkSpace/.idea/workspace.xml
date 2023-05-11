@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2ea11ac-1153-4c0d-a988-bd6d63acf19c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10807.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj2164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/Km/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Hash/MyHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Hash/MyLinkedHashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyCircularQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d2d451100b1a2983d9b62bf0284eaa3dffc5e27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/506488734ce333740390931605368c81469ffa48" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/d/0d2d451100b1a2983d9b62bf0284eaa3dffc5e27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/0/506488734ce333740390931605368c81469ffa48" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10773.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj10773.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj9012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj9012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyLinkedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyLinkedQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/list/MyDoubleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/list/MyDoubleLinkedListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +62,7 @@
       <recent name="JavaGrammar.TExtends" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MyDoubleLinkedListTest.delete">
     <configuration name="MyDoubleLinkedListTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WorkSpace" />
       <extension name="coverage">
@@ -186,7 +170,8 @@
       <workItem from="1682331494155" duration="926000" />
       <workItem from="1682334190616" duration="2619000" />
       <workItem from="1683605367024" duration="9870000" />
-      <workItem from="1683692355079" duration="7927000" />
+      <workItem from="1683692355079" duration="8533000" />
+      <workItem from="1683799474489" duration="609000" />
     </task>
     <servers />
   </component>
