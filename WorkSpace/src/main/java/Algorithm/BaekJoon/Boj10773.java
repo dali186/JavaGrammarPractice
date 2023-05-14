@@ -1,30 +1,33 @@
 package Algorithm.BaekJoon;
 
+import java.io.*;
+import java.util.Iterator;
 import java.util.Scanner;
+import java.util.Stack;
 
 public class Boj10773 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        int nums[] = new int[N];
-        int index = 0;
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        for (int i = 0; i < N; i++) {
-            int num = sc.nextInt();
-
-            if(num == 0) {
-                nums[index-1] = 0;
-                index--;
-            } else {
-                nums[index] = num;
-                index++;
-            }
-
-        }
+        Stack<Integer> stack = new Stack<>();
         int sum = 0;
-        for(int i = 0; i < N; i++) {
-            sum += nums[i];
+
+        int N = Integer.parseInt(br.readLine());
+        for (int i = 0; i < N; i++) {
+            int num = Integer.parseInt(br.readLine());
+            if (num == 0) stack.pop();
+            else stack.push(num);
         }
-        System.out.println(sum);
+
+        Iterator<Integer> iterator = stack.iterator();
+        while (iterator.hasNext()) {
+            sum += iterator.next();
+        }
+
+        bw.write(Integer.toString(sum));
+
+        br.close();
+        bw.close();
     }
 }

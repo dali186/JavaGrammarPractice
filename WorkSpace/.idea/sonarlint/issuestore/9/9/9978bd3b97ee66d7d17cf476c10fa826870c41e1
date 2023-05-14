@@ -1,0 +1,28 @@
+
+\
+java:S1192"FDefine a constant instead of duplicating this literal "TV-01" 3 times.(½‚û˜
+l
+java:S1192"QDefine a constant instead of duplicating this literal "VaccumCleaner-01" 3 times.(ÊŸØÙúÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Mac-01" 3 times.(ç÷ùÅ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½‚û˜
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç÷ùÅ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊŸØÙúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŠ»÷ùÿÿÿÿ
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¯ÖĞ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¿­­ÿÿÿÿÿ
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¼ÖÁøÿÿÿÿ
+k	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ò›øÿÿÿÿ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë£²É
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÖâøÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¿Êù˜
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ€­‚øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©ĞÔ¹
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ù‰şøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¹À§
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ßÚÎùÿÿÿÿ
+Q	java:S125;"<This block of commented-out lines of code should be removed.(£Æîí
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

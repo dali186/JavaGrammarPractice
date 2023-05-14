@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9b9b7c-d408-4f7a-9b95-626ad49d610a" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj11279.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj5430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/KNOU/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Asgn06/Practice01/Column.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Asgn06/Practice01/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Asgn06/Practice01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Asgn06/Practice01/SMSApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Asgn06/Practice01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Asgn06/Practice01/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Asgn06/Practice01/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Asgn06/Practice01/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Else/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Else/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Else/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Else/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Else/MySort.java" afterDir="false" />
+    <list default="true" id="b2ea11ac-1153-4c0d-a988-bd6d63acf19c" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj9012.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj9012.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +27,8 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Pgwv1nUyySMLibqmIOIWBXEoNv" />
+  <component name="ProjectId" id="2PUj4FXNS2ztxcxMKz7pfPHhYNi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,21 +38,140 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/wer07/OneDrive/바탕 화면/WorkSpace/JavaGrammarPractice/WorkSpace&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/FastCampus_BackEnd/JavaGrammarPractice/WorkSpace&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 12d7d33c9eec3c307e2b09face41b7dff1625eca
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; d18caf571a68e32eabd35ca773a0fc3c134dfe38
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Assignment.day11.practice01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\JavaGrammar\TExtends" />
+      <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\ForSubmission\me\day05\practice" />
+      <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\Assignment\day05\Practice03" />
+      <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\main\java\Assignment\day05\Practice02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wer07\OneDrive\바탕 화면\WorkSpace\JavaGrammarPractice\WorkSpace\src\test\java\list" />
+      <recent name="C:\Users\User\Desktop\FastCampus_BackEnd\JavaGrammarPractice\WorkSpace\src\test\java\list" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="JavaGrammar.TExtends" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyDoubleLinkedListTest.delete">
+    <configuration name="MyDoubleLinkedListTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list" />
+      <option name="MAIN_CLASS_NAME" value="list.MyDoubleLinkedListTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyDoubleLinkedListTest.indexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list" />
+      <option name="MAIN_CLASS_NAME" value="list.MyDoubleLinkedListTest" />
+      <option name="METHOD_NAME" value="indexOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyDoubleLinkedListTest.insert_exception" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list" />
+      <option name="MAIN_CLASS_NAME" value="list.MyDoubleLinkedListTest" />
+      <option name="METHOD_NAME" value="insert_exception" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyDoubleLinkedListTest.delete" />
+        <item itemvalue="JUnit.MyDoubleLinkedListTest.insert_exception" />
+        <item itemvalue="JUnit.MyDoubleLinkedListTest.indexOf" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="2e9b9b7c-d408-4f7a-9b95-626ad49d610a" name="변경" comment="" />
-      <created>1683091659821</created>
+      <changelist id="b2ea11ac-1153-4c0d-a988-bd6d63acf19c" name="변경" comment="" />
+      <created>1683518360732</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683091659821</updated>
-      <workItem from="1683091664074" duration="1375000" />
-      <workItem from="1683892261468" duration="5140000" />
-      <workItem from="1683963462975" duration="5517000" />
-      <workItem from="1684063576326" duration="4923000" />
+      <updated>1680158409519</updated>
+      <workItem from="1680158410886" duration="5591000" />
+      <workItem from="1680170306150" duration="4655000" />
+      <workItem from="1680235872983" duration="10706000" />
+      <workItem from="1680420807309" duration="347000" />
+      <workItem from="1680495694751" duration="2451000" />
+      <workItem from="1680510541377" duration="686000" />
+      <workItem from="1680515671862" duration="22000" />
+      <workItem from="1680520206477" duration="7727000" />
+      <workItem from="1680602198638" duration="4041000" />
+      <workItem from="1680664524009" duration="662000" />
+      <workItem from="1680666762542" duration="10394000" />
+      <workItem from="1680698934418" duration="4672000" />
+      <workItem from="1680764550008" duration="8112000" />
+      <workItem from="1680840750809" duration="10140000" />
+      <workItem from="1680855826705" duration="9357000" />
+      <workItem from="1680870992539" duration="2447000" />
+      <workItem from="1680874753825" duration="867000" />
+      <workItem from="1681122163772" duration="2416000" />
+      <workItem from="1681126804412" duration="6787000" />
+      <workItem from="1681133738426" duration="1528000" />
+      <workItem from="1681207122822" duration="4206000" />
+      <workItem from="1681271987412" duration="2697000" />
+      <workItem from="1681274701771" duration="23923000" />
+      <workItem from="1681364118500" duration="228000" />
+      <workItem from="1681364764917" duration="255000" />
+      <workItem from="1681379997085" duration="2365000" />
+      <workItem from="1681449003558" duration="10424000" />
+      <workItem from="1681460251918" duration="2876000" />
+      <workItem from="1681466340272" duration="9209000" />
+      <workItem from="1681539477308" duration="600000" />
+      <workItem from="1681707206761" duration="9875000" />
+      <workItem from="1681726101570" duration="11130000" />
+      <workItem from="1681792957771" duration="14444000" />
+      <workItem from="1681878383150" duration="8530000" />
+      <workItem from="1681887883957" duration="3112000" />
+      <workItem from="1681967415096" duration="10026000" />
+      <workItem from="1682050388183" duration="1923000" />
+      <workItem from="1682071585263" duration="1379000" />
+      <workItem from="1682308876618" duration="816000" />
+      <workItem from="1682318455883" duration="5035000" />
+      <workItem from="1682331494155" duration="926000" />
+      <workItem from="1682334190616" duration="2619000" />
+      <workItem from="1683605367024" duration="9870000" />
+      <workItem from="1683692355079" duration="8533000" />
+      <workItem from="1683799474489" duration="609000" />
     </task>
     <servers />
   </component>
