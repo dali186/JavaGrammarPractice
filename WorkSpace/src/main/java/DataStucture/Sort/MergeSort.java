@@ -1,4 +1,4 @@
-package DataStucture.Else;
+package DataStucture.Sort;
 
 public class MergeSort implements MySort {
     @Override
@@ -24,13 +24,32 @@ public class MergeSort implements MySort {
         int left = low;
         int right = mid + 1;
 
-        while (left >= right && right <= high) {
+        while (left >= mid && right <= high) {
             if (array[left] <= array[right]) {
                 temp[idx] = array[left];
                 left++;
             } else {
-                //temp[idx]
+                temp[idx] = array[right];
+                right++;
             }
+            idx++;
+        }
+        //본래 배열에 값이 남아 있는 경우
+        while (left <= mid) {
+            temp[idx] = array[left];
+            idx++;
+            left++;
+        }
+
+        while (right <= high) {
+            temp[idx] = array[right];
+            idx++;
+            right++;
+        }
+
+        //temp를 array로 복사
+        for (int i = low; i <= high; i++) {
+            array[i] = temp[i - low];
         }
     }
 }

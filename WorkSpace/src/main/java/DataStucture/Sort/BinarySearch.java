@@ -1,4 +1,4 @@
-package DataStucture.Else;
+package DataStucture.Sort;
 
 import java.util.Arrays;
 
