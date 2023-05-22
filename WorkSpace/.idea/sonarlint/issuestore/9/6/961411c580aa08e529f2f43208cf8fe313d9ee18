@@ -1,0 +1,18 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8õ–ŒÎ‚1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ8õ–ŒÎ‚1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ¹÷8õ–ŒÎ‚1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»¦üÿÿÿÿ8õ–ŒÎ‚1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ö´8ö–ŒÎ‚1
+]
+java:S1854";Remove this useless assignment to local variable "visited".(øïÀ¤ùÿÿÿÿ8ä®˜Î‚1
+V
+java:S1854"9Remove this useless assignment to local variable "queue".(Ôü“è8®İÎ‚1
+I
+java:S1197",Move the array designators [][] to the type.(ÄşÌ‰8ÿ–ŒÎ‚1
+G
+java:S1481"*Remove this unused "queue" local variable.(Ôü“è8±İÎ‚1
+N
+java:S1197",Move the array designators [][] to the type.(øïÀ¤ùÿÿÿÿ8ç®˜Î‚1
+N
+java:S1481",Remove this unused "visited" local variable.(øïÀ¤ùÿÿÿÿ8ç®˜Î‚1

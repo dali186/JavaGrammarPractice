@@ -1,4 +1,6 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”º°ßÿÿÿÿÿ
-L
-java:S1751="6Remove this "return" statement or make it conditional.(§¼Éç
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”º°ßÿÿÿÿÿ8ÅËí‚1
+S
+java:S1751?"6Remove this "return" statement or make it conditional.(§¼Éç8ÕËí‚1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8×Ëí‚1

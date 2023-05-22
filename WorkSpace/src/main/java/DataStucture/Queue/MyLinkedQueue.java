@@ -1,5 +1,8 @@
 package DataStucture.Queue;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class MyLinkedQueue<T> implements  MyQueue<T>{
 
     private Node head;

@@ -5,28 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2ea11ac-1153-4c0d-a988-bd6d63acf19c" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj11650.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1260.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj16435.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1931.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj9934.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/Km/BitMask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/BFS/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/BFS/BFS_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Heap/MaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Heap/MyHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Tree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Tree/MyTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj11286.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1655.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj2220.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/Km/StepUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10a7ff28ccb111e086f0794744dc559ff97df233" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10a7ff28ccb111e086f0794744dc559ff97df233" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/335e4f7d2200011aff5b04e86df3c0d28a16ff90" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/335e4f7d2200011aff5b04e86df3c0d28a16ff90" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60a464bfea64b92f58e9e17353d7da5fd2faada1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60a464bfea64b92f58e9e17353d7da5fd2faada1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Else/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Else/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Else/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Else/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Else/MySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/MySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Heap/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Heap/MaxHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/List/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/List/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyLinkedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Queue/MyLinkedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Stack/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Stack/MyStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +192,8 @@
       <workItem from="1684144855492" duration="3601000" />
       <workItem from="1684210220982" duration="4027000" />
       <workItem from="1684295850891" duration="15138000" />
-      <workItem from="1684385289815" duration="1329000" />
+      <workItem from="1684385289815" duration="18660000" />
+      <workItem from="1684471434942" duration="967000" />
     </task>
     <servers />
   </component>
