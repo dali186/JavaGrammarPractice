@@ -77,67 +77,10 @@
       <recent name="JavaGrammar.TExtends" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyDoubleLinkedListTest.delete">
-    <configuration name="MyDoubleLinkedListTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="list" />
-      <option name="MAIN_CLASS_NAME" value="list.MyDoubleLinkedListTest" />
-      <option name="METHOD_NAME" value="delete" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyDoubleLinkedListTest.indexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="list" />
-      <option name="MAIN_CLASS_NAME" value="list.MyDoubleLinkedListTest" />
-      <option name="METHOD_NAME" value="indexOf" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyDoubleLinkedListTest.insert_exception" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="WorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="list" />
-      <option name="MAIN_CLASS_NAME" value="list.MyDoubleLinkedListTest" />
-      <option name="METHOD_NAME" value="insert_exception" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.MyDoubleLinkedListTest.delete" />
-        <item itemvalue="JUnit.MyDoubleLinkedListTest.insert_exception" />
-        <item itemvalue="JUnit.MyDoubleLinkedListTest.indexOf" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="b2ea11ac-1153-4c0d-a988-bd6d63acf19c" name="변경" comment="" />
+      <changelist id="2e9b9b7c-d408-4f7a-9b95-626ad49d610a" name="변경" comment="" />
       <created>1683518360732</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
