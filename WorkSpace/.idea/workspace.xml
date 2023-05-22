@@ -4,14 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e9b9b7c-d408-4f7a-9b95-626ad49d610a" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj11286.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1927.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Graph/AdjacencyListGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Graph/AdjacencyMatrixGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Graph/GraphAlgorithms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Graph/MyGraph.java" afterDir="false" />
+    <list default="true" id="b2ea11ac-1153-4c0d-a988-bd6d63acf19c" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj11650.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1260.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj16435.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj1931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/BaekJoon/Boj9934.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algorithm/Km/BitMask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/BFS/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/BFS/BFS_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Heap/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Heap/MyHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Tree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Tree/MyTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Else/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Else/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Else/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Else/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStucture/Else/MySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStucture/Sort/MySort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -51,6 +67,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="DataStucture.Tree" />
       <recent name="Assignment.day11.practice01" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -119,8 +136,13 @@
       <workItem from="1682334190616" duration="2619000" />
       <workItem from="1683605367024" duration="9870000" />
       <workItem from="1683692355079" duration="8533000" />
-      <workItem from="1683799474489" duration="609000" />
-      <workItem from="1684493019661" duration="8404000" />
+      <workItem from="1683799474489" duration="1205000" />
+      <workItem from="1683867732705" duration="4392000" />
+      <workItem from="1684125668159" duration="4422000" />
+      <workItem from="1684144855492" duration="3601000" />
+      <workItem from="1684210220982" duration="4027000" />
+      <workItem from="1684295850891" duration="15138000" />
+      <workItem from="1684385289815" duration="1329000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package DataStucture.Else;
+package DataStucture.Sort;
 
 public class InsertionSort implements MySort{
     @Override
